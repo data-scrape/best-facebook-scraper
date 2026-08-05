@@ -35,38 +35,6 @@
 
 
 
-<div align="center">
-
-[![GitHub stars](https://img.shields.io/github/stars/data-scrape/best-facebook-scraper?style=social)](https://github.com/data-scrape/best-facebook-scraper)
-[![GitHub forks](https://img.shields.io/github/forks/data-scrape/best-facebook-scraper?style=social)](https://github.com/data-scrape/best-facebook-scraper/fork)
-[![GitHub issues](https://img.shields.io/github/issues/data-scrape/best-facebook-scraper)](https://github.com/data-scrape/best-facebook-scraper/issues)
-[![GitHub license](https://img.shields.io/github/license/data-scrape/best-facebook-scraper)](https://github.com/data-scrape/best-facebook-scraper/blob/main/LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)](https://www.python.org/)
-
-</div>
-
-
-> Best Facebook scraper 2025 - extract pages, posts, and reviews
-
-
-<!-- SEO keywords: best facebook scraper, Best Facebook Scraper, best facebook scraper python, best facebook scraper github, best best facebook scraper -->
-
-
-<div align="center">
-
-[![CoreClaw](https://img.shields.io/badge/CoreClaw-Data_Scraping_Platform-7B2FF7?style=for-the-badge&labelColor=5B21B6)](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
-
-**The All-in-One Web Scraping & Data Platform** — Scrape Google Maps, Instagram, Amazon, LinkedIn, TikTok, YouTube, and 50+ platforms via ready-to-use REST APIs.
-
-✅ No browser automation · ✅ No proxy management · ✅ Free credits for new users
-
-⬇️ [Get Started with CoreClaw Free](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
-
-</div>
-
----
-
-
 > Looking for the **best Facebook Scraper**?
 
 CoreClaw provides production-ready Facebook data extraction tools and APIs for collecting public pages, posts, comments, groups, profiles, and business information without maintaining browsers or proxies.
